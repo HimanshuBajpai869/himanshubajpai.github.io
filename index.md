@@ -35,10 +35,46 @@ Part of the Microsoft Management Services Team where I focussed on:
 3. Preparing the performance dashboards to show the real-time test results and the details of resources in the cloud.
 4. Worked on optimizing the cost and reliability of the service using different code practices and Azure services.
 5. Developed a Data Science Solution for better management of live site incidents which was not only capable of triaging the incidents but also recommends possible solution.
+
 Other Responsiblities - Participate in Recruitment Drive and RFP work to develop POCs for value-add services.
 
 #### Infosys Limited | Senior System Engineer | May-2017-July-2018
 Joined Microsoft Account where I was part of:
 1. Data Services team where focus was on maintaining automated test cases and bug fixing.
-2. Solutions Team where focus was on fixing bugs related to solution import and export. Worked extensively in adding telemetry for the same. Saved time of time by working on classifying the errors into User or Platform Errors.
+2. Solutions Team where focus was on fixing bugs related to solution import and export. Worked extensively in adding telemetry for the same. Saved time of time by working on classifying the errors into User or Platform Errors.#### Infosys Limited | System Engineer | June-2015-April-2017
+Part of Education Training and Assessment Unit where I played different roles - Batch Owner, Educator, Mentor, Content Creator and development and maintenance of applications used for managing the curriculum for the trainees.
+---
+
+---
+## Certifications
+#### Microsoft Certifications
+- [Azure Data Scientist Associate](https://www.youracclaim.com/badges/dfbfcbd8-02b7-467b-95f1-1d4a9bd88285)
+- [Programming using C#](https://www.youracclaim.com/badges/06c1cb4b-db80-4cee-b6e4-7464fbd890ed/linked_in_profile)
+- [Azure Fundamentals](https://www.youracclaim.com/badges/68e295a5-dd80-40c0-b0b2-eb769f13611d/linked_in_profile)
+- [Azure Developer Associate](https://www.youracclaim.com/badges/b775c6dc-2981-4928-bd7b-0f964a73b65f/linked_in_profile)
+- [Introduction to Programming using Python](https://www.youracclaim.com/badges/1b090fc3-cbbc-4bb7-9b87-638b3ac99ab7/linked_in_profile)
+#### Data Science Certifications
+- [IBM Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/PGLG7NYV26VR)
+- [Coursera Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/9TGY58ZEBW4Z)
+- [DataCamp Machine Learning Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/d532e92e83c250bd735bd757a95a5026f151d76f)
+- [DataCamp Deep Learning with Python](https://www.datacamp.com/statement-of-accomplishment/track/0ff172970091cacc2ee5ca0dda0b512e48864854)
+- [Udacity Data Scientist Nano Degree](https://github.com/HimanshuBajpai869/Udacity-DataScientist)
+- [Udacity Natural Language Processing Nano Degree](https://confirm.udacity.com/E99KPKF)
+---
+
+---
+## Accolades
+#### Won the Coronavirus Analysis challenge in the first ever UNICC- Data for Good Hackathon as a team.
+#### Pinnacle Award – ENG Achiever – December2020
+For being outstanding performer in the unit for the cycle September-2019 to October-2020.
+#### Best Skilling Performance – July -2020
+For being continuous learner with primary focus on Data Science.
+#### Glory Awards - Kudos Award – February -2020
+For outstanding support and winning client appreciation for the work done in the project in FY2020-Quarter 3.
+#### Insta Award – November – 2019
+For coming up with the idea of implementing CI/CD pipeline to save production outages for the client.
+#### Insta Award – September – 2019
+One of the top performers in the Microsoft Account and skilling in Data Science and for being mentor to new members.#### Received Certificate of Excellence for scoring 80+% in the academic year 2012-13 and 2013-14.
+#### Presented a paper on ‘Characterization of Nickel Free Stainless Steel’ during National Student Conference on Advances in Electrical & Information Communication Technology (AEICT-2014).
+#### Qualified to second round in International Mathematics Olympiad in 2010 and received Gold Medal for being School Topper.
 ---
