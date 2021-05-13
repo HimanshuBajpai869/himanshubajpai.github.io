@@ -62,9 +62,15 @@ Part of Education Training and Assessment Unit where I played different roles - 
 ---
 
 ## Accolades
-#### Won the Coronavirus Analysis challenge in the first ever UNICC Data for Good Hackathon as a team.
-#### Pinnacle Award | ENG Achiever | December-2020
+#### 1. Won the Coronavirus Analysis challenge in the first ever UNICC Data for Good Hackathon as a team.
+#### 2. Pinnacle Award | ENG Achiever | December-2020
 ##### For being outstanding performer in the unit for the cycle September,2019 to October,2020.
+#### 3. Best Skilling Performance | July-2020
+##### For being continuous learner with primary focus on Data Science.
+#### 4. Glory Awards | Kudos Award | February -2020
+##### For outstanding support and winning client appreciation for the work done in the project in FY2020-Quarter 3.
+#### 5. Insta Award | November – 2019
+##### For coming up with the idea of implementing CI-CD pipeline to save production outages for the client.
 
 
 ---
