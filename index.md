@@ -35,4 +35,10 @@ Part of the Microsoft Management Services Team where I focussed on:
 3. Preparing the performance dashboards to show the real-time test results and the details of resources in the cloud.
 4. Worked on optimizing the cost and reliability of the service using different code practices and Azure services.
 5. Developed a Data Science Solution for better management of live site incidents which was not only capable of triaging the incidents but also recommends possible solution.
+Other Responsiblities - Participate in Recruitment Drive and RFP work to develop POCs for value-add services.
+
+#### Infosys Limited | Senior System Engineer | May-2017-July-2018
+Joined Microsoft Account where I was part of:
+1. Data Services team where focus was on maintaining automated test cases and bug fixing.
+2. Solutions Team where focus was on fixing bugs related to solution import and export. Worked extensively in adding telemetry for the same. Saved time of time by working on classifying the errors into User or Platform Errors.
 ---
