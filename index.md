@@ -2,8 +2,7 @@
 
 ---
 #### Master of Technology in Software Systems with Specialization in Data Analytics
-Birla Institute of Technology and Science, Pilani, India - 2018-2020 - CGPA - 7.4
-####
+######Birla Institute of Technology and Science, Pilani, India - 2018-2020 - CGPA - 7.4
 [Post Graduate Thesis - Building ML Based intelligent system to analyse Production Live Site Incidents](https://www.ijeat.org/wp-content/uploads/papers/v10i3/C21780210321.pdf)
 1. Studied the incidents and prepared the set of rules required to pre-process the text data before applying the Machine Learning Model
 2. Studied the performance of different Classification models on the processed data set using Cross Validations and different performance metrics to identify the best go-to solution for classifying the incident.
@@ -13,11 +12,10 @@ Birla Institute of Technology and Science, Pilani, India - 2018-2020 - CGPA - 7.
 
 ---
 #### Bachelor of Technology in Mechanical Engineering
-Dr. APJ Abdul Kalam Technical Univesity, Lucknow, India - 2011-2015 - Percentage - 80
-####
+###### Dr. APJ Abdul Kalam Technical Univesity, Lucknow, India - 2011-2015 - Percentage - 80
 [Under Graduate Thesis - Wind Turbine Speed Modulation](https://www.slideshare.net/secret/dWgkGicqsUFQSY)
 1. Developed a working model using CVTs which helps in maintaining the RPM of the turbine in the cases where the wind speed falls below the threshold.
-2. Studied the improvement observed after using this model and the possible improvement areas
+2. Studied the improvement observed after using this model and the possible improvement areas.
 
 
 ### Professional Experience
