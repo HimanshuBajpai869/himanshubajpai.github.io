@@ -30,9 +30,8 @@
 ## Professional Experience
 
 #### Infosys Limited | Technology Analyst | August-2018–Present
-Part of the Microsoft’s Management Services Team
-where I focussed on - 
-1. Developing Micro services managing cloud resources using ARM, Azure SDKs, and C#.
+Part of the Microsoft’s Management Services Team where I focussed on - 
+1. Developing Micro services managing cloud resources using ARM, Azure SDKs, powershell and CSharp.
 2. Creating load tests which run 24x7 to identify the bugs before deploying the code to production.
 3. Preparing the performance dashboards to show the real-time test results and the details of resources in the cloud.
 4. Worked on optimizing the cost and reliability of the service using different code practices and Azure services.
