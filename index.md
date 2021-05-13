@@ -10,13 +10,13 @@
 4. Combined the obtained best go-to classification model and recommender system model into a Flask based API which can be used by end user to triage and get the recommended solution for the ticket.
 5. The technical paper is published in February edition of International Journal of Engineering and Advanced Technology journal.
 
----
 #### Bachelor of Technology in Mechanical Engineering
 ##### Dr. APJ Abdul Kalam Technical Univesity, Lucknow, India - 2011-2015 - Percentage - 80
 [Under Graduate Thesis - Wind Turbine Speed Modulation](https://www.slideshare.net/secret/dWgkGicqsUFQSY)
 1. Developed a working model using CVTs which helps in maintaining the RPM of the turbine in the cases where the wind speed falls below the threshold.
 2. Studied the improvement observed after using this model and the possible improvement areas.
 
+---
 
 ## Personal Projects
 
@@ -27,11 +27,16 @@
 - [Miscellanious Projects](https://github.com/HimanshuBajpai869/DataScienceProjects)
 
 ---
-### Master of Technology in Software Systems with Specialization in Data Analytics
+## Professional Experience
 
-#### Birla Institute of Technology and Science, Pilani, India
-#### 2018-20
-#### CGPA - 7.4
+#### Infosys Limited | Technology Analyst | August-2018–Present
+Part of the Microsoft’s Management Services Team
+where I focussed on - 
+1. Developing Micro services managing cloud resources using ARM, Azure SDKs, and C#.
+2. Creating load tests which run 24x7 to identify the bugs before deploying the code to production.
+3. Preparing the performance dashboards to show the real-time test results and the details of resources in the cloud.
+4. Worked on optimizing the cost and reliability of the service using different code practices and Azure services.
+5. Developed a Data Science Solution for better management of live site incidents which was not only capable of triaging the incidents but also recommends possible solution.
 
 
 
