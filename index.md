@@ -30,7 +30,6 @@
 ## Professional Experience
 
 #### Infosys Limited - Technology Analyst - August-2018–Present
-Part of the Microsoft Management Services Team where I focussed on - 
 
 
 
