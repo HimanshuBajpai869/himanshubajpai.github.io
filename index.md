@@ -62,18 +62,7 @@ Part of Education Training and Assessment Unit where I played different roles - 
 ---
 
 ## Accolades
-#### Won the Coronavirus Analysis challenge in the first ever UNICC- Data for Good Hackathon as a team.
-#### Pinnacle Award – ENG Achiever – December2020
-##### For being outstanding performer in the unit for the cycle September-2019 to October-2020.
-#### Best Skilling Performance – July -2020
-##### For being continuous learner with primary focus on Data Science.
-#### Glory Awards - Kudos Award – February -2020
-##### For outstanding support and winning client appreciation for the work done in the project in FY2020-Quarter 3.
-#### Insta Award – November – 2019
-##### For coming up with the idea of implementing CI/CD pipeline to save production outages for the client.
-#### Insta Award – September – 2019
-##### One of the top performers in the Microsoft Account and skilling in Data Science and for being mentor to new members.#### Received Certificate of Excellence for scoring more than 80 percent in the academic year 2012-13 and 2013-14.
-#### Presented a paper on Characterization of Nickel Free Stainless Steel during National Student Conference on Advances in Electrical & Information Communication Technology (AEICT-2014).
-#### Qualified to second round in International Mathematics Olympiad in 2010 and received Gold Medal for being School Topper.
+#### Won the Coronavirus Analysis challenge in the first ever UNICC Data for Good Hackathon as a team.
+
 
 ---
