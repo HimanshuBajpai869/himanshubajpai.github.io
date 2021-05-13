@@ -1,12 +1,9 @@
 ## Education
 
 ---
-
 ### Master of Technology in Software Systems with Specialization in Data Analytics
-
-#### Birla Institute of Technology and Science, Pilani, India
-#### 2018-20
-#### CGPA - 7.4
+#### Birla Institute of Technology and Science, Pilani, India - 2018-2020 - CGPA - 7.4
+ht
 [Post Graduate Thesis - Building ML Based intelligent system to analyse Production Live Site Incidents](https://www.ijeat.org/wp-content/uploads/papers/v10i3/C21780210321.pdf)
 1. Studied the incidents and prepared the set of rules required to pre-process the text data before applying the Machine Learning Model
 2. Studied the performance of different Classification models on the processed data set using Cross Validations and different performance metrics to identify the best go-to solution for classifying the incident.
