@@ -28,4 +28,5 @@
 
 ---
 ## Professional Experience
+#### Infosys Limited | Technology Analyst | August-2018-Present
 ---
