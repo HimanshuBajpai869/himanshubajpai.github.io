@@ -18,13 +18,13 @@
 2. Studied the improvement observed after using this model and the possible improvement areas.
 
 
-## Professional Experience
+## Personal Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Real or Not? NLP with disaster tweets](https://bajpaihimanshu.medium.com/real-or-not-nlp-with-disaster-tweets-77ab3ba8325f)
+- [Auto Evaluate Answers](https://github.com/HimanshuBajpai869/AutoEvaluateAnswers)
+- [Co-WinTogether](https://github.com/HimanshuBajpai869/CoWinTogether)
+- [UNICC-Hackathon-ImpactofCovidOnChildren](https://github.com/HimanshuBajpai869/UNICCHackathon-CovidAnalysis/blob/master/ImpactofCovidOnChildren.ipynb)
+- [Miscellanious Projects](https://github.com/HimanshuBajpai869/DataScienceProjects)
 
 ---
 ### Master of Technology in Software Systems with Specialization in Data Analytics
