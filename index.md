@@ -63,8 +63,8 @@ Part of Education Training and Assessment Unit where I played different roles - 
 
 ## Accolades
 #### Won the Coronavirus Analysis challenge in the first ever UNICC Data for Good Hackathon as a team.
-#### Pinnacle Award – ENG Achiever – December2020
-##### For being outstanding performer in the unit for the cycle September-2019 to October-2020.
+#### Pinnacle Award | ENG Achiever | December-2020
+##### For being outstanding performer in the unit for the cycle September,2019 to October,2020.
 
 
 ---
