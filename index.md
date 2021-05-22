@@ -28,6 +28,10 @@
 
 ---
 ## Professional Experience
+#### Birla Institute of Technology and Science, Pilani | Guest Faculty | May-2021-Present
+contributing to academics by working as Guest Faculty at WILP, where I take sessions on Data Science subjects - Natural Language Processing, Machine Learning, Data Mining, Information Retrieval.
+
+
 #### Infosys Limited | Technology Analyst | August-2018-Present
 Part of the Microsoft Management Services Team where I focussed on:
 1. Developing Micro services managing cloud resources using ARM Azure SDKs powershell and CSharp.
@@ -41,8 +45,11 @@ Other Responsiblities - Participated in Recruitment Drives and RFP work to devel
 #### Infosys Limited | Senior System Engineer | May-2017-July-2018
 Joined Microsoft Account where I was part of:
 1. Data Services team where focus was on maintaining automated test cases and bug fixing.
-2. Solutions Team where focus was on fixing bugs related to solution import and export. Worked extensively in adding telemetry for the same. Saved time of time by working on classifying the errors into User or Platform Errors.#### Infosys Limited | System Engineer | June-2015-April-2017
-Part of Education Training and Assessment Unit where I played different roles - Batch Owner, Educator, Mentor, Content Creator and development and maintenance of applications used for managing the curriculum for the trainees.
+2. Solutions Team where focus was on fixing bugs related to solution import and export. Worked extensively in adding telemetry for the same. Saved time of time by working on classifying the errors into User or Platform Errors.
+
+#### Infosys Limited | System Engineer | June-2015-April-2017
+Part of Education Training and Assessment Unit where I played different roles - Batch Owner, Educator, Mentor, Content Creator and development and maintenance of applications used for managing the curriculum for the trainees.
+
 ---
 
 ## Certifications
@@ -51,15 +58,21 @@ Part of Education Training and Assessment Unit where I played different roles - 
 - [Programming using C#](https://www.youracclaim.com/badges/06c1cb4b-db80-4cee-b6e4-7464fbd890ed/linked_in_profile)
 - [Azure Fundamentals](https://www.youracclaim.com/badges/68e295a5-dd80-40c0-b0b2-eb769f13611d/linked_in_profile)
 - [Azure Developer Associate](https://www.youracclaim.com/badges/b775c6dc-2981-4928-bd7b-0f964a73b65f/linked_in_profile)
-- [Introduction to Programming using Python](https://www.youracclaim.com/badges/1b090fc3-cbbc-4bb7-9b87-638b3ac99ab7/linked_in_profile)
+- [Introduction to Programming using Python](https://www.youracclaim.com/badges/1b090fc3-cbbc-4bb7-9b87-638b3ac99ab7/linked_in_profile)
+
 #### Data Science Certifications
 - [IBM Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/PGLG7NYV26VR)
 - [Coursera Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/9TGY58ZEBW4Z)
 - [DataCamp Machine Learning Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/d532e92e83c250bd735bd757a95a5026f151d76f)
 - [DataCamp Deep Learning with Python](https://www.datacamp.com/statement-of-accomplishment/track/0ff172970091cacc2ee5ca0dda0b512e48864854)
 - [Udacity Data Scientist Nano Degree](https://github.com/HimanshuBajpai869/Udacity-DataScientist)
-- [Udacity Natural Language Processing Nano Degree](https://confirm.udacity.com/E99KPKF)
+- [Udacity Natural Language Processing Nano Degree](https://confirm.udacity.com/E99KPKF)
+
 ---
 
+## Accolades
+-[Won the Coronavirus Analysis challenge in the first ever UNICC Data for Good Hackathon as a team]()
+#### 2. Pinnacle Award | ENG Achiever | December-2020
+##### For being outstanding performer in the unit for the cycle September,2019 to October,2020.
 
 ---
