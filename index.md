@@ -77,6 +77,6 @@ For being outstanding performer in the unit for the cycle September-2019 to Octo
 - [Best Skilling Performance | July-2020]()
 For being continuous learner with primary focus on Data Science.
 - [Glory Awards | Kudos Award | February-2020]()
-For outstanding support and winning client appreciation for the work done in the project in FY2020-Quarter-3- [Insta Award | November–2019]()For coming up with the idea of implementing CI/CD pipeline to save production outages for the client.
+For outstanding support and winning client appreciation for the work done in the project in FY2020-Quarter-3- [Insta Award | November–2019]()For coming up with the idea of implementing CI and CD pipeline to save production outages for the client.
 
 ---
