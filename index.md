@@ -80,5 +80,5 @@ For being continuous learner with primary focus on Data Science.
 For outstanding support and winning client appreciation for the work done in the project in FY2020-Quarter-3.
 - [Insta Award | November-2019]()
 For coming up with the idea of implementing CI and CD pipeline to save production outages for the client.
-
----
+- [Insta Award | September-2019]()
+One of the top performers in the Microsoft Account and skilling in Data Science and for being mentor to new members.---
