@@ -70,6 +70,9 @@ Part of Education Training and Assessment Unit where I played different roles - 
 
 ---
 
+## Experience with Microsoft Services
+<img src="images/Skills.png?raw=true"/>
+
 ## Accolades
 - [Won the Coronavirus Analysis challenge in the first ever UNICC Data for Good Hackathon as a team](https://www.unicc.org/news/2021/03/12/abraca-data-a-team-of-young-talent-forged-by-chance-fortified-by-data/)
 - [Pinnacle Award | ENG Achiever | December-2020]()
@@ -81,4 +84,7 @@ For outstanding support and winning client appreciation for the work done in the
 - [Insta Award | November-2019]()
 For coming up with the idea of implementing CI and CD pipeline to save production outages for the client.
 - [Insta Award | September-2019]()
-One of the top performers in the Microsoft Account and skilling in Data Science and for being mentor to new members.---
+One of the top performers in the Microsoft Account and skilling in Data Science and for being mentor to new members.
+
+---
+
