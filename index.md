@@ -70,9 +70,13 @@ Part of Education Training and Assessment Unit where I played different roles - 
 
 ---
 
-### Experience with Microsoft Services
+#### Experience with Microsoft Services
 <img src="images/Skills.png?raw=true"/>
 
+---
+
+#### Experience with Data Science Libraries
+<img src = "images/pythonlibraries.png?raw=true"
 ---
 
 
