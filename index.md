@@ -28,17 +28,22 @@
 
 ---
 ## Professional Experience
+#### Fractal Analytics | Machine Learning Engineer | October-2021-Present
+Working on bringing Machine Learning system to production to help business stakeholders make decision based on analytics.
+
+
 #### Birla Institute of Technology and Science, Pilani | Guest Faculty | May-2021-Present
 Contributing to academics by working as Guest Faculty at WILP, where I take sessions on Data Science subjects - Natural Language Processing, Machine Learning, Data Mining, Information Retrieval.
 
 
-#### Infosys Limited | Technology Analyst | August-2018-Present
+#### Infosys Limited | Technology Analyst | August-2018-September-2021
 Part of the Microsoft Management Services Team where I focussed on:
 1. Developing Micro services managing cloud resources using ARM Azure SDKs powershell and CSharp.
 2. Creating load tests which run 24x7 to identify the bugs before deploying the code to production.
 3. Preparing the performance dashboards to show the real-time test results and the details of resources in the cloud.
 4. Worked on optimizing the cost and reliability of the service using different code practices and Azure services.
 5. Developed a Data Science Solution for better management of live site incidents which was not only capable of triaging the incidents but also recommends possible solution.
+6. Created a chatbot to help with DRI activities and onboarding new team members to the project.
 
 Other Responsiblities - Participated in Recruitment Drives and RFP work to develop POCs for value-add services.
 
