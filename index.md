@@ -1,40 +1,18 @@
-## Education
-
----
-#### Master of Technology in Software Systems with Specialization in Data Analytics
-##### Birla Institute of Technology and Science, Pilani, India - 2018-2020 - CGPA - 7.4
-[Post Graduate Thesis - Building ML Based intelligent system to analyse Production Live Site Incidents](https://www.ijeat.org/wp-content/uploads/papers/v10i3/C21780210321.pdf)
-1. Studied the incidents and prepared the set of rules required to pre-process the text data before applying the Machine Learning Model
-2. Studied the performance of different Classification models on the processed data set using Cross Validations and different performance metrics to identify the best go-to solution for classifying the incident.
-3. Studied different text similarity models to identify the similar incidents which may be recommended as the solution for the incident.
-4. Combined the obtained best go-to classification model and recommender system model into a Flask based API which can be used by end user to triage and get the recommended solution for the ticket.
-5. The technical paper is published in February edition of International Journal of Engineering and Advanced Technology journal.
-
-#### Bachelor of Technology in Mechanical Engineering
-##### Dr. APJ Abdul Kalam Technical Univesity, Lucknow, India - 2011-2015 - Percentage - 80
-[Under Graduate Thesis - Wind Turbine Speed Modulation](https://www.slideshare.net/secret/dWgkGicqsUFQSY)
-1. Developed a working model using CVTs which helps in maintaining the RPM of the turbine in the cases where the wind speed falls below the threshold.
-2. Studied the improvement observed after using this model and the possible improvement areas.
-
----
-
-## Personal Projects
-
-- [Real or Not? NLP with disaster tweets](https://bajpaihimanshu.medium.com/real-or-not-nlp-with-disaster-tweets-77ab3ba8325f)
-- [Auto Evaluate Answers](https://github.com/HimanshuBajpai869/AutoEvaluateAnswers)
-- [Co-WinTogether](https://github.com/HimanshuBajpai869/CoWinTogether)
-- [UNICC-Hackathon-ImpactofCovidOnChildren](https://github.com/HimanshuBajpai869/UNICCHackathon-CovidAnalysis/blob/master/ImpactofCovidOnChildren.ipynb)
-- [Miscellanious Projects](https://github.com/HimanshuBajpai869/DataScienceProjects)
-
----
 ## Professional Experience
 #### Fractal Analytics | Machine Learning Engineer | October-2021-Present
 Working on bringing Machine Learning system to production to help business stakeholders make decision based on analytics.
 
+Automate OnPrem DS Solution : To migrate the on-prem Data Analytics solution to Microsoft Azure. Provide a UI so that Data scientists can run their experiments based on input parameters and visualize the results in Power-BI and allow them to publish the results for business user to understand the story.
 
-#### Birla Institute of Technology and Science, Pilani | Guest Faculty | May-2021-Present
-Contributing to academics by working as Guest Faculty at WILP, where I take sessions on Data Science subjects - Natural Language Processing, Machine Learning, Data Mining, Information Retrieval.
+Tools/Technologies Used: PySpark, ETL, Python, SQL, GitHub, Scala, Databricks, Storage Account, REST API, Microsoft Power Platform (PowerApps, PowerBI)
 
+1. Designed the pipeline to maintain the state management across all the tasks while running an experiment
+2. Wrote Databricks job to transform raw data to data in the standard format.
+3. Wrote Databricks job to perform aggregation on the data in a standard format to make it ready for running experiment.
+4. Worked on optimizing the time and resource consumption and was able to reduce the time from 9 hours to 1 hour on a low-end cluster.
+5. Developed a UI on PowerApps, with SharePoint List-based authentication, to run the experiment (Databricks Job).
+6. Worked on establishing the connection to read data from the storage account or upload it to the storage account.
+7. Worked on Power BI report to visualize the results and added support to update the back-end data from PBI using PowerApps.
 
 #### Infosys Limited | Technology Analyst | August-2018-September-2021
 Part of the Microsoft Management Services Team where I focussed on:
@@ -43,7 +21,14 @@ Part of the Microsoft Management Services Team where I focussed on:
 3. Preparing the performance dashboards to show the real-time test results and the details of resources in the cloud.
 4. Worked on optimizing the cost and reliability of the service using different code practices and Azure services.
 5. Developed a Data Science Solution for better management of live site incidents which was not only capable of triaging the incidents but also recommends possible solution.
-6. Created a chatbot to help with DRI activities and onboarding new team members to the project.
+6. Created a chat-bot based on Azure AI to onboard new team members by helping them with Knowledge Transfer and assist them in DRI activities.
+
+Tools/Technologies Used:
+• Language: C#
+• SQL: Azure SQL, and Cosmos DB.
+• Azure Services: Service Fabric, Virtual Machines, Storage Accounts/DataLake, Virtual Network, Network Security Groups, SQL DB, Cosmos DB, Key Vaults, Automation Account, Application Gateway, Load Balancers, AAD, Data Factory.
+• Azure Resource Management: Azure Resource Management (ARM) templates, SDKs, and PowerShell.
+• Software Development Technique: Micro Services.
 
 Other Responsiblities - Participated in Recruitment Drives and RFP work to develop POCs for value-add services.
 
@@ -54,6 +39,21 @@ Joined Microsoft Account where I was part of:
 
 #### Infosys Limited | System Engineer | June-2015-April-2017
 Part of Education Training and Assessment Unit where I played different roles - Batch Owner, Educator, Mentor, Content Creator and development and maintenance of applications used for managing the curriculum for the trainees.
+
+---
+
+## Accolades
+- [Won the Coronavirus Analysis challenge in the first ever UNICC Data for Good Hackathon as a team](https://www.unicc.org/news/2021/03/12/abraca-data-a-team-of-young-talent-forged-by-chance-fortified-by-data/)
+- [Pinnacle Award | ENG Achiever | December-2020]()
+For being outstanding performer in the unit for the cycle September-2019 to October-2020.
+- [Best Skilling Performance | July-2020]()
+For being continuous learner with primary focus on Data Science.
+- [Glory Awards | Kudos Award | February-2020]()
+For outstanding support and winning client appreciation for the work done in the project in FY2020-Quarter-3.
+- [Insta Award | November-2019]()
+For coming up with the idea of implementing CI and CD pipeline to save production outages for the client.
+- [Insta Award | September-2019]()
+One of the top performers in the Microsoft Account and skilling in Data Science and for being mentor to new members.
 
 ---
 
@@ -85,19 +85,32 @@ Part of Education Training and Assessment Unit where I played different roles - 
 
 ---
 
+## Education
 
-## Accolades
-- [Won the Coronavirus Analysis challenge in the first ever UNICC Data for Good Hackathon as a team](https://www.unicc.org/news/2021/03/12/abraca-data-a-team-of-young-talent-forged-by-chance-fortified-by-data/)
-- [Pinnacle Award | ENG Achiever | December-2020]()
-For being outstanding performer in the unit for the cycle September-2019 to October-2020.
-- [Best Skilling Performance | July-2020]()
-For being continuous learner with primary focus on Data Science.
-- [Glory Awards | Kudos Award | February-2020]()
-For outstanding support and winning client appreciation for the work done in the project in FY2020-Quarter-3.
-- [Insta Award | November-2019]()
-For coming up with the idea of implementing CI and CD pipeline to save production outages for the client.
-- [Insta Award | September-2019]()
-One of the top performers in the Microsoft Account and skilling in Data Science and for being mentor to new members.
+---
+#### Master of Technology in Software Systems with Specialization in Data Analytics
+##### Birla Institute of Technology and Science, Pilani, India - 2018-2020 - CGPA - 7.4
+[Post Graduate Thesis - Building ML Based intelligent system to analyse Production Live Site Incidents](https://www.ijeat.org/wp-content/uploads/papers/v10i3/C21780210321.pdf)
+1. Studied the incidents and prepared the set of rules required to pre-process the text data before applying the Machine Learning Model
+2. Studied the performance of different Classification models on the processed data set using Cross Validations and different performance metrics to identify the best go-to solution for classifying the incident.
+3. Studied different text similarity models to identify the similar incidents which may be recommended as the solution for the incident.
+4. Combined the obtained best go-to classification model and recommender system model into a Flask based API which can be used by end user to triage and get the recommended solution for the ticket.
+5. The technical paper is published in February edition of International Journal of Engineering and Advanced Technology journal.
+
+#### Bachelor of Technology in Mechanical Engineering
+##### Dr. APJ Abdul Kalam Technical Univesity, Lucknow, India - 2011-2015 - Percentage - 80
+[Under Graduate Thesis - Wind Turbine Speed Modulation](https://www.slideshare.net/secret/dWgkGicqsUFQSY)
+1. Developed a working model using CVTs which helps in maintaining the RPM of the turbine in the cases where the wind speed falls below the threshold.
+2. Studied the improvement observed after using this model and the possible improvement areas.
 
 ---
 
+## Personal Projects
+
+- [Real or Not? NLP with disaster tweets](https://bajpaihimanshu.medium.com/real-or-not-nlp-with-disaster-tweets-77ab3ba8325f)
+- [Auto Evaluate Answers](https://github.com/HimanshuBajpai869/AutoEvaluateAnswers)
+- [Co-WinTogether](https://github.com/HimanshuBajpai869/CoWinTogether)
+- [UNICC-Hackathon-ImpactofCovidOnChildren](https://github.com/HimanshuBajpai869/UNICCHackathon-CovidAnalysis/blob/master/ImpactofCovidOnChildren.ipynb)
+- [Miscellanious Projects](https://github.com/HimanshuBajpai869/DataScienceProjects)
+
+---
