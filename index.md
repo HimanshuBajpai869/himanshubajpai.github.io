@@ -2,7 +2,7 @@
 #### Fractal Analytics | Machine Learning Engineer | October-2021-Present
 Working on bringing Machine Learning system to production to help business stakeholders make decision based on analytics.
 
-Automate OnPrem DS Solution : To migrate the on-prem Data Analytics solution to Microsoft Azure. Provide a UI so that Data scientists can run their experiments based on input parameters and visualize the results in Power-BI and allow them to publish the results for business user to understand the story.
+=> Automate OnPrem DS Solution : To migrate the on-prem Data Analytics solution to Microsoft Azure. Provide a UI so that Data scientists .can run their experiments based on input parameters and visualize the results in Power-BI and allow them to publish the results for business user to understand the story.
 
 Tools/Technologies Used: PySpark, ETL, Python, SQL, GitHub, Scala, Databricks, Storage Account, REST API, Microsoft Power Platform (PowerApps, PowerBI)
 
@@ -13,6 +13,32 @@ Tools/Technologies Used: PySpark, ETL, Python, SQL, GitHub, Scala, Databricks, S
 5. Developed a UI on PowerApps, with SharePoint List-based authentication, to run the experiment (Databricks Job).
 6. Worked on establishing the connection to read data from the storage account or upload it to the storage account.
 7. Worked on Power BI report to visualize the results and added support to update the back-end data from PBI using PowerApps.
+
+=> Secure Data Science Solution : Building a scalable system that secures the data science solution and provides a utility to the Client to consume it in Pay-As-You-Go-based licensing mechanism.
+
+Tools/Technologies Used: Python, Azure DevOps-CI/CD, Flask, Azure Application Service, Application Insights, Logic App, Storage Account, Azure ML, YAML.
+
+- Designed a MicroService-based architecture to allow the users to consume the data science solution as a black box but with the feasibility of training model with different combinations of parameters. Hence, maintaining the security of the data science solution and client data.
+- Designed an architecture to obscure the solution with the license and support a Flask API to retrieve the secured URL valid for a particular time duration.
+- Developed a Flask API with OAuth to validate the request and send the secured URL (Shared Access Signature) of the package.
+- Designed a basic Database schema to facilitate the obscurification of package for a client with the proper license mechanism.
+- Created CI/CD pipelines to continuously build and deploy the API to App Service.
+- Created a Build Pipeline to obscure the package with the license on the fly and push it to the blob storage.
+- Created CI/CD pipeline to push the encrypted package on client to different environments like Development/Test/Production etc.
+- Created different alerts for monitoring the service- 
+ a. Notify client when license is about to expire in a month
+ b. Auto-Shut Down App Service when not in use.
+ c. Alerts to notify the failure while running ML Pipeline or deploying Model.
+ d. Alert team in case any runtime exceptions are logged under Application Insights.
+
+Benefits:
+1. Maintain Data and Solution security on both client and developer sides.
+2. Provide a mechanism for Pay-As-You-Go model. The solution stops working the moment license is expired.
+3. Automation with CI/CD pipeline helped in reducing manual effort significantly.
+
+- [KudoBoard shared by the team](https://www.kudoboard.com/boards/TDKsx6Ri)
+
+<img src="images/kudoboard_sdss.png?raw=true"/>
 
 #### Infosys Limited | Technology Analyst | August-2018-September-2021
 Part of the Microsoft Management Services Team where I focussed on:
