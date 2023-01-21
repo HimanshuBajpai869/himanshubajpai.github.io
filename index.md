@@ -1,5 +1,21 @@
 ## Professional Experience
-#### Fractal Analytics | Machine Learning Engineer | October-2021-Present
+
+#### Tiger Analytics | Lead Engineer - Machine Learning Platform | October-2022-Present
+
+=>  Leading the effort to build the No-Code Machine Learning Platform for Data Engineers and Data Scientists.
+
+=> Development of MLOps Framework for Real Estate Client : Build capabilities to operationalize and manage the solutions developed by Data Science Team.
+
+Tools/Technologies Used: Python, MLFlow, Mathematical Modelling, DevOps, PowerApps, API.
+
+- Revamped the existing mathematical modelling solution based on Convex Optimizer to consume Gurobi solver with no impact on execution time.
+- POC on CI-CD pipeline to move the code to different databricks environment.
+- POC on leveraging ML-Flow to track the execution of workflow with relevant KPIs.
+- Developed a databricks job to import the event data from Google Big-Query to Databricks Delta lake with improved runtime from 11 days to 2.5 days.
+- Developed a Power-App to help users to pass model parameters to perform custom execution of notebooks via databricks Jobs API.
+
+
+#### Fractal Analytics | Machine Learning Engineer | October-2021-September-2022
 Working on bringing Machine Learning system to production to help business stakeholders make decision based on analytics.
 
 => Automate OnPrem DS Solution : To migrate the on-prem Data Analytics solution to Microsoft Azure. Provide a UI so that Data scientists .can run their experiments based on input parameters and visualize the results in Power-BI and allow them to publish the results for business user to understand the story.
@@ -25,7 +41,7 @@ Tools/Technologies Used: Python, Azure DevOps-CI/CD, Flask, Azure Application Se
 - Created CI/CD pipelines to continuously build and deploy the API to App Service.
 - Created a Build Pipeline to obscure the package with the license on the fly and push it to the blob storage.
 - Created CI/CD pipeline to push the encrypted package on client to different environments like Development/Test/Production etc.
-- Created different alerts for monitoring the service- 
+- Created different alerts for monitoring the service-
  a. Notify client when license is about to expire in a month
  b. Auto-Shut Down App Service when not in use.
  c. Alerts to notify the failure while running ML Pipeline or deploying Model.
@@ -39,6 +55,15 @@ Benefits:
 - [KudoBoard shared by the team](https://www.kudoboard.com/boards/TDKsx6Ri)
 
 <img src="images/kudoboard_sdss.png?raw=true"/>
+
+=> Marketing Mix Modelling for Sponsorship Return of Investment : Improve the existing solution of the client to understand the impact of different marketing channels on sales and estimate Sponsorship ROI from each channel using Marketing Mix Modelling.
+
+Tools/Technologies Used: Python, Marketing Mix Modelling, Hierarchical Modelling, Time Series Analysis.
+
+- Re-designed the code with OOPs, logs and exception handling for better understanding and maintenance of the code.
+- Tried out multiple approaches to perform improved Marketing Mix Modelling-PyMC3, PyStan, Robyn and improvements on adstock transformation using Weibull.
+- Wrote multi-threading job to process the raw data with lesser time.
+- Added support to run multiple iterations of the model using Nevergrad Multi-Objective function with semi-automation leading to improvement on execution time from 1 iteration with 1100 seconds to 10 iterations in 850 seconds.
 
 #### Infosys Limited | Technology Analyst | August-2018-September-2021
 Part of the Microsoft Management Services Team where I focussed on:
