@@ -2,7 +2,14 @@
 
 #### Tiger Analytics | Lead Engineer - Machine Learning Platform | October-2022-Present
 
-=>  Leading the effort to build the No-Code Machine Learning Platform for Data Engineers and Data Scientists.
+=>  Leading the effort to build the Low-Code Machine Learning Platform for Data Engineers, Data Scientists, MLOPs Engineers and different Business stakeholders.
+
+Leading the effort across multiple areas - 
+
+- Capabilities to train different models and their explainability in the platform.
+- SRE capability to provide a utility for different team owners/members to review their service performances and overall platform reliability.
+- Setting up sandbox environment for the client to get hands-on experience on the platform.
+- Representing the Platform to different clients and pitching ideas on where the platform can help them and their team.
 
 => Development of MLOps Framework for Real Estate Client : Build capabilities to operationalize and manage the solutions developed by Data Science Team.
 
