@@ -2,14 +2,15 @@
 
 #### Tiger Analytics | Lead Engineer - Machine Learning Platform | October-2022-Present
 
-=>  Leading the effort to build the Low-Code Machine Learning Platform for Data Engineers, Data Scientists, MLOPs Engineers and different Business stakeholders.
+=>  Leading the effort to build the Low/No/Full-Code Machine Learning Platform for Data Engineers, Data Scientists, MLOPs Engineers and different Business stakeholders.
 
 Leading the effort across multiple areas - 
 
 - Capabilities to train different models and their explainability in the platform.
 - SRE capability to provide a utility for different team owners/members to review their service performances and overall platform reliability.
-- Setting up sandbox environment for the client to get hands-on experience on the platform.
 - Representing the Platform to different clients and pitching ideas on where the platform can help them and their team.
+- Onboarding the Data Science Solution Accelerators on the Platform.
+- Leading the effort in developing plug and play product to accelerate data science solution development journey via Solution Development Tool kit. The data science teams can plug the SDK and track their progress on the platform which provides inbuilt features like model testing, EDA, model evaluation, deployment and monitoring capabilities.
 
 => Development of MLOps Framework for Real Estate Client : Build capabilities to operationalize and manage the solutions developed by Data Science Team.
 
@@ -126,6 +127,8 @@ One of the top performers in the Microsoft Account and skilling in Data Science 
 - [Introduction to Programming using Python](https://www.youracclaim.com/badges/1b090fc3-cbbc-4bb7-9b87-638b3ac99ab7/linked_in_profile)
 
 #### Data Science Certifications
+- [Generative AI with Large Language Models](https://coursera.org/share/eb63eb252ae57f190f3929fd9e2eb5d3)
+- [AI Product Management (Duke University)](https://coursera.org/share/a51a93cd3c25260f6062483a448b6116)
 - [IBM Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/PGLG7NYV26VR)
 - [Coursera Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/9TGY58ZEBW4Z)
 - [DataCamp Machine Learning Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/d532e92e83c250bd735bd757a95a5026f151d76f)
